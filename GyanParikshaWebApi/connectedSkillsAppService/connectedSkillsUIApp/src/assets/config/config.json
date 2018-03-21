@@ -1,0 +1,4 @@
+{
+    "host":"localhost",
+    "ServiceApiBaseAddress":"http://localhost:4200/"
+}

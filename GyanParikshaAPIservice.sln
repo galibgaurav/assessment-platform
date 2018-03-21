@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyanPariksha.Data", "GyanPariksha.Data\GyanPariksha.Data.csproj", "{A398B16A-5CCD-4FF3-B99F-09A5CD8B080D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyanPariksha.Model", "GyanPariksha.Model\GyanPariksha.Model.csproj", "{C680BB58-914F-4CE6-B58D-7FEBC129EB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyanPariksha.Constants", "GyanPariksha.Constants\GyanPariksha.Constants.csproj", "{FF8428F5-E07F-4A79-A589-3627BC3F3F66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyanPriksha.BL", "GyanPriksha.BL\GyanPriksha.BL.csproj", "{BA85045E-46BB-4A7C-A6B0-50180FC5A597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyanPariksha.helper", "GyanPariksha.helper\GyanPariksha.helper.csproj", "{C7253F5A-C448-496B-A2DE-708110055F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GyanParikshaWebApi", "GyanParikshaWebApi\connectedSkillsAppService\GyanParikshaWebApi.csproj", "{259C22EE-FF9E-4420-B627-046343ACD126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A398B16A-5CCD-4FF3-B99F-09A5CD8B080D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A398B16A-5CCD-4FF3-B99F-09A5CD8B080D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A398B16A-5CCD-4FF3-B99F-09A5CD8B080D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A398B16A-5CCD-4FF3-B99F-09A5CD8B080D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C680BB58-914F-4CE6-B58D-7FEBC129EB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C680BB58-914F-4CE6-B58D-7FEBC129EB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C680BB58-914F-4CE6-B58D-7FEBC129EB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C680BB58-914F-4CE6-B58D-7FEBC129EB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8428F5-E07F-4A79-A589-3627BC3F3F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8428F5-E07F-4A79-A589-3627BC3F3F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8428F5-E07F-4A79-A589-3627BC3F3F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8428F5-E07F-4A79-A589-3627BC3F3F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA85045E-46BB-4A7C-A6B0-50180FC5A597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA85045E-46BB-4A7C-A6B0-50180FC5A597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA85045E-46BB-4A7C-A6B0-50180FC5A597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA85045E-46BB-4A7C-A6B0-50180FC5A597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7253F5A-C448-496B-A2DE-708110055F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7253F5A-C448-496B-A2DE-708110055F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7253F5A-C448-496B-A2DE-708110055F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7253F5A-C448-496B-A2DE-708110055F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259C22EE-FF9E-4420-B627-046343ACD126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259C22EE-FF9E-4420-B627-046343ACD126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259C22EE-FF9E-4420-B627-046343ACD126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259C22EE-FF9E-4420-B627-046343ACD126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4A5992-267C-406A-B67D-8F55BB2AF6F9}
+	EndGlobalSection
+EndGlobal
